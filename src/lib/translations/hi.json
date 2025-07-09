@@ -1,0 +1,32 @@
+
+{
+  "Header": {
+    "Home": "होम",
+    "Reels": "रील्स",
+    "Wishlist": "इच्छा-सूची",
+    "Cart": "कार्ट",
+    "FashionDesigner": "फैशन डिजाइनर",
+    "SearchPlaceholder": "उत्पादों के लिए खोजें...",
+    "Login": "लॉग इन करें",
+    "SignUp": "साइन अप करें",
+    "MyAccount": "मेरा खाता",
+    "Dashboard": "डैशबोर्ड",
+    "Logout": "लॉग आउट"
+  },
+  "HomePage": {
+    "HeroTitle1": "भारत की रचनात्मक आत्मा",
+    "HeroDescription1": "कलाकनेक्ट भारत के हर कोने से प्रामाणिक, दस्तकारी खजाने के लिए आपका सेतु है।",
+    "HeroTitle2": "रंगों का त्योहार सेल",
+    "HeroDescription2": "जीवंत वस्त्रों और घर की सजावट पर 40% तक की छूट। परंपरा के साथ जश्न मनाएं।",
+    "HeroTitle3": "शाही बुनाई",
+    "HeroDescription3": "उत्तम पश्मीना और रेशम की खोज करें, जो विरासत के साथ हाथ से बुने गए हैं।",
+    "ShopNow": "अभी खरीदें",
+    "DealsOfTheDay": "आज के सौदे",
+    "ExploreCollection": "हमारा संग्रह देखें",
+    "FeaturedArtisans": "हमारे विशेष कारीगर",
+    "FreeShipping": "मुफ़्त शिपिंग",
+    "AuthenticCrafts": "प्रामाणिक शिल्प",
+    "BestPrices": "सर्वोत्तम मूल्य",
+    "AmazingDiscounts": "अद्भुत छूट"
+  }
+}

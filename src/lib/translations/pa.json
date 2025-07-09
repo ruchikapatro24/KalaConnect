@@ -1,0 +1,32 @@
+
+{
+  "Header": {
+    "Home": "ਘਰ",
+    "Reels": "ਰੀਲਜ਼",
+    "Wishlist": "ਇੱਛਾ-ਸੂਚੀ",
+    "Cart": "ਕਾਰਟ",
+    "FashionDesigner": "ਫੈਸ਼ਨ ਡਿਜ਼ਾਈਨਰ",
+    "SearchPlaceholder": "ਉਤਪਾਦਾਂ ਦੀ ਖੋਜ ਕਰੋ...",
+    "Login": "ਲਾਗਇਨ",
+    "SignUp": "ਸਾਈਨ ਅੱਪ",
+    "MyAccount": "ਮੇਰਾ ਖਾਤਾ",
+    "Dashboard": "ਡੈਸ਼ਬੋਰਡ",
+    "Logout": "ਲੌਗ ਆਊਟ"
+  },
+  "HomePage": {
+    "HeroTitle1": "ਭਾਰਤ ਦੀ ਰਚਨਾਤਮਕ ਆਤਮਾ",
+    "HeroDescription1": "ਕਲਾਕਨੈਕਟ ਭਾਰਤ ਦੇ ਹਰ ਕੋਨੇ ਤੋਂ ਪ੍ਰਮਾਣਿਕ, ਹੱਥ ਨਾਲ ਬਣੇ ਖਜ਼ਾਨਿਆਂ ਲਈ ਤੁਹਾਡਾ ਪੁਲ ਹੈ।",
+    "HeroTitle2": "ਰੰਗਾਂ ਦਾ ਤਿਉਹਾਰ ਸੇਲ",
+    "HeroDescription2": "ਚਮਕਦਾਰ ਟੈਕਸਟਾਈਲ ਅਤੇ ਘਰ ਦੀ ਸਜਾਵਟ 'ਤੇ 40% ਤੱਕ ਦੀ ਛੋਟ। ਪਰੰਪਰਾ ਨਾਲ ਜਸ਼ਨ ਮਨਾਓ।",
+    "HeroTitle3": "ਸ਼ਾਹੀ ਬੁਣਾਈ",
+    "HeroDescription3": "ਵਿਰਾਸਤ ਨਾਲ ਹੱਥ ਨਾਲ ਬੁਣੇ ਹੋਏ ਸ਼ਾਨਦਾਰ ਪਸ਼ਮੀਨਾ ਅਤੇ ਰੇਸ਼ਮ ਦੀ ਖੋਜ ਕਰੋ।",
+    "ShopNow": "ਹੁਣੇ ਖਰੀਦੋ",
+    "DealsOfTheDay": "ਦਿਨ ਦੇ ਸੌਦੇ",
+    "ExploreCollection": "ਸਾਡਾ ਸੰਗ੍ਰਹਿ ਦੇਖੋ",
+    "FeaturedArtisans": "ਸਾਡੇ ਵਿਸ਼ੇਸ਼ ਕਾਰੀਗਰ",
+    "FreeShipping": "ਮੁਫਤ ਸ਼ਿਪਿੰਗ",
+    "AuthenticCrafts": "ਪ੍ਰਮਾਣਿਕ ​​शिल्प",
+    "BestPrices": "ਵਧੀਆ ਕੀਮਤਾਂ",
+    "AmazingDiscounts": "ਸ਼ਾਨਦਾਰ ਛੋਟ"
+  }
+}

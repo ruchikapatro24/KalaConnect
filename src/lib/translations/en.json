@@ -1,0 +1,32 @@
+
+{
+  "Header": {
+    "Home": "Home",
+    "Reels": "Reels",
+    "Wishlist": "Wishlist",
+    "Cart": "Cart",
+    "FashionDesigner": "Fashion Designer",
+    "SearchPlaceholder": "Search for products...",
+    "Login": "Login",
+    "SignUp": "Sign Up",
+    "MyAccount": "My Account",
+    "Dashboard": "Dashboard",
+    "Logout": "Log out"
+  },
+  "HomePage": {
+    "HeroTitle1": "India's Creative Soul",
+    "HeroDescription1": "KalaConnect is your bridge to authentic, handcrafted treasures from every corner of India.",
+    "HeroTitle2": "Festival of Colors Sale",
+    "HeroDescription2": "Up to 40% off on vibrant textiles and home decor. Celebrate with tradition.",
+    "HeroTitle3": "The Royal Weaves",
+    "HeroDescription3": "Discover exquisite Pashminas and silks, handwoven with legacy.",
+    "ShopNow": "Shop Now",
+    "DealsOfTheDay": "Deals of the Day",
+    "ExploreCollection": "Explore Our Collection",
+    "FeaturedArtisans": "Our Featured Artisans",
+    "FreeShipping": "Free Shipping",
+    "AuthenticCrafts": "Authentic Crafts",
+    "BestPrices": "Best Prices",
+    "AmazingDiscounts": "Amazing Discounts"
+  }
+}

@@ -1,0 +1,32 @@
+
+{
+  "Header": {
+    "Home": "گھر",
+    "Reels": "ریلز",
+    "Wishlist": "خواہش کی فہرست",
+    "Cart": "کارٹ",
+    "FashionDesigner": "فیشن ڈیزائنر",
+    "SearchPlaceholder": "مصنوعات تلاش کریں...",
+    "Login": "لاگ ان",
+    "SignUp": "سائن اپ",
+    "MyAccount": "میرا کھاتہ",
+    "Dashboard": "ڈیش بورڈ",
+    "Logout": "لاگ آؤٹ"
+  },
+  "HomePage": {
+    "HeroTitle1": "بھارت کی تخلیقی روح",
+    "HeroDescription1": "کلاکنیٹ ہندوستان کے ہر کونے سے مستند، ہاتھ سے تیار کردہ خزانوں کا آپ کا پل ہے۔",
+    "HeroTitle2": "رنگوں کا تہوار سیل",
+    "HeroDescription2": "متحرک ٹیکسٹائل اور گھریلو سجاوٹ پر 40% تک کی چھوٹ۔ روایت کے ساتھ جشن منائیں۔",
+    "HeroTitle3": "شاہی بنائی",
+    "HeroDescription3": "ورثے کے ساتھ ہاتھ سے بنے ہوئے شاندار پشمیوں اور ریشموں کو دریافت کریں۔",
+    "ShopNow": "ابھی خریداری کریں",
+    "DealsOfTheDay": "دن کے سودے",
+    "ExploreCollection": "ہمارا مجموعہ دریافت کریں",
+    "OurFeaturedArtisans": "ہمارے نمایاں کاریگر",
+    "FreeShipping": "مفت شپنگ",
+    "AuthenticCrafts": "مستند دستکاری",
+    "BestPrices": "بہترین قیمتیں",
+    "AmazingDiscounts": "حیرت انگیز چھوٹ"
+  }
+}
