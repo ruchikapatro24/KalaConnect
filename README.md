@@ -49,31 +49,3 @@ KalaConnect equips artisans with a powerful set of generative AI tools, making d
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 📦 Publishing to GitHub
-
-To publish your project to GitHub, follow these steps:
-
-1.  **Create a new repository on GitHub**: Go to [GitHub](https://github.com/new) and create a new repository. Do not initialize it with a README, .gitignore, or license file, as this project already has them.
-
-2.  **Initialize Git in your project folder**: Open a terminal in your project's root directory and run:
-    ```bash
-    git init -b main
-    ```
-
-3.  **Add and commit all the files**:
-    ```bash
-    git add .
-    git commit -m "Initial commit"
-    ```
-
-4.  **Link your local repository to GitHub**: Replace `<YOUR_REPOSITORY_URL>` with the URL from your new GitHub repository.
-    ```bash
-    git remote add origin <YOUR_REPOSITORY_URL>
-    ```
-
-5.  **Push your code to GitHub**:
-    ```bash
-    git push -u origin main
-    ```
-
-Now your code is live on GitHub!
